@@ -36,7 +36,7 @@ I chose **Option 3: Word Frequency Analyzer** with all bonus features implemente
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/MahmoudAlaa123/eT3-Assessment-wordFrequencyAnalyzer.git
+git clone https://github.com/MahmoudAlaa123/eT3-Assessment-Option3.git
 cd eT3-Assessment-wordFrequencyAnalyzer
 ```
 
